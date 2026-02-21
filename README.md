@@ -31,17 +31,9 @@ Strong experience in AWS, Kubernetes (EKS), CI/CD automation, and Infrastructure
 ### 🔁 CI/CD Pipeline
 - Git → Jenkins → Docker → ECR → EKS  
 - Implemented Blue-Green and Rolling deployments  
-
----
-
-## 📄 Resume
-
-You can download my resume here:  
-👉 [Download Resume](./DevOps_Engineer_Resume_Anuj_Jain.docx)
-
 ---
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://linkedin.com/in/your-link  
+🔗 LinkedIn: https://linkedin.com/in/anuj-jain-devops  
 📧 Email: your-email@gmail.com
